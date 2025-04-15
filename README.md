@@ -116,6 +116,7 @@ This repository contains a pipeline for processing and analyzing legal exam ques
 ## Configuration
 
 - API keys for LLM services (Mistral, Cohere) should be set as environment variables
+  - Example in Coda: `conda env config vars set `COHERE_API_KEY=your_key` 
 - Input files should be in the specified format
 - Output directories will be created automatically if they don't exist
 
