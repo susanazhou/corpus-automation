@@ -1,5 +1,9 @@
 # Corpus Automation Pipeline
 
+![SomosNLP](https://somosnlp.github.io/assets/img/logo.png)
+
+This project was developed as part of the [SomosNLP Hackathon 2025](https://somosnlp.org/hackathon), focused on advancing Spanish language AI and NLP.
+
 This repository contains a pipeline for processing and analyzing legal exam questions. The pipeline consists of several components that work together to parse, categorize, and evaluate questions.
 
 ## Pipeline Components
