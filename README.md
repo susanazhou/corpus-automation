@@ -1,6 +1,6 @@
 # Corpus Automation Pipeline
 
-![SomosNLP](https://somosnlp.github.io/assets/img/logo.png)
+![SomosNLP](somosNLP.svg)
 
 This project was developed as part of the [SomosNLP Hackathon 2025](https://somosnlp.org/hackathon), focused on advancing Spanish language AI and NLP.
 
