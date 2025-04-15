@@ -1,0 +1,566 @@
+[
+  {
+    "question_id": 1,
+    "question": "La distinción entre leyes orgánicas y leyes ordinarias reside en que:",
+    "options": {
+      "a": "Las leyes orgánicas pertenecen al bloque de constitucionalidad.",
+      "b": "Las leyes orgánicas son aprobadas por un sistema reforzado de mayoría en el Senado.",
+      "c": "Las leyes ordinarias desarrollan la materia relativa al régimen electoral general mientras que las orgánicas deben desarrollar otras materias diferentes del régimen electoral general.",
+      "d": "Las Leyes orgánicas versan sobre determinadas materias y son aprobadas por mayoría absoluta del Congreso de los Diputados, en una votación final sobre el conjunto del proyecto."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 3,
+    "question": "El derecho a la igualdad garantizado en el artículo 14 de la Constitución:",
+    "options": {
+      "a": "Vincula a los Tribunales a fundamentar sus sentencias atendiendo a los precedentes jurisprudenciales siempre que las resoluciones que dicten sean relativas a materias como el nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+      "b": "Vincula a la Administración a no establecer en el acceso a la función pública la exigencia del conocimiento de las lenguas oficiales de las Comunidades Autónomas.",
+      "c": "Asegura el trato igual de todos los españoles, con independencia de las situaciones que pueden ser objeto de amparo.",
+      "d": "Integra el Derecho a la igualdad jurídica que prohíbe todo tratamiento desigual que sea injustificado por no ser razonable."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 4,
+    "question": "El ejercicio del Derecho de manifestación requiere:",
+    "options": {
+      "a": "Autorización del Subdelegado del Gobierno cuando se pretenda desarrollar en vías de tránsito público y pueda provocar alteraciones de orden público.",
+      "b": "Autorización de las autoridades gubernativas competentes cuando se solicite por más de cien personas y se pretenda desarrollar en lugares cerrados.",
+      "c": "Comunicación por escrito a la autoridad gubernativa solo cuando la organización corresponda a un partido político.",
+      "d": "Comunicación por escrito de los organizadores a la autoridad gubernativa."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 5,
+    "question": "Entre la atribuciones que la Constitución de 1978 confiere al Senado en exclusiva, le corresponde:",
+    "options": {
+      "a": "Retirar la confianza del Presidente del Gobierno.",
+      "b": "Autorizar las medidas adoptadas por el Gobierno para obligar a las Comunidades Autónomas a cumplir las obligaciones constitucionales.",
+      "c": "Ratificar los tratados Internacionales.",
+      "d": "Dar instrucciones a las Comunidades Autónomas para que cumplan con las obligaciones constitucionales."
+    },
+    "correct_answer": "b",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 7,
+    "question": "Las sentencias del Tribunal Constitucional tienen valor erga omnes:",
+    "options": {
+      "a": "Sólo cuando son dictadas en procedimientos de constitucionalidad aunque se limiten a la estimación subjetiva de un derecho.",
+      "b": "Si recaen en procedimientos de inconstitucionalidad sean estimatorias o desestimatorias del recurso interpuesto.",
+      "c": "Si se dictan en recursos de amparo y son de estimación subjetiva de los derechos.",
+      "d": "Cuando se dictan en procedimientos de constitucionalidad si son estimatorias y no se limitan a la estimación subjetiva de un derecho."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 9,
+    "question": "Un partido político no incurre en motivos para ser declarado ilegal cuando:",
+    "options": {
+      "a": "Vulnera sistemáticamente las libertades y derechos fundamentales justificando atentados contra la integridad de las personas.",
+      "b": "Apoye políticamente la acción de organizaciones terroristas.",
+      "c": "Pretenda continuar la actividad de otro partido declarado ilegal.",
+      "d": "Incluya como representantes en sus listas electorales a personas condenadas por cualquier tipo de delito doloso y grave."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 10,
+    "question": "La protección de los derechos fundamentales de la persona corresponde:",
+    "options": {
+      "a": "Sólo al Tribunal Supremo, por un procedimiento basado en los principios de preferencia y sumariedad.",
+      "b": "A los Tribunales de Justicia y al Tribunal Constitucional.",
+      "c": "A los Tribunales de Justicia y solo subsidiariamente al Tribunal Constitucional.",
+      "d": "Sólo al Tribunal Constitucional a través del recurso de amparo."
+    },
+    "correct_answer": "b",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 12,
+    "question": "Según el artículo 13.2 de la Constitución:",
+    "options": {
+      "a": "Sólo los españoles son titulares del derecho de sufragio activo y pasivo en las elecciones municipales, salvo lo que pueda establecerse por tratado o ley para los extranjeros comunitarios.",
+      "b": "Sólo los españoles son titulares del derecho de sufragio activo y pasivo en las elecciones municipales, salvo lo que pueda establecerse por tratado o ley para los extranjeros en general, atendiendo a criterios de reciprocidad.",
+      "c": "En ningún caso puede reconocerse a los extranjeros el derecho de sufragio pasivo en las elecciones municipales.",
+      "d": "Los extranjeros pueden tener derecho de sufragio activo y pasivo en las elecciones municipales si se establece por tratado o ley."
+    },
+    "correct_answer": "b",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 13,
+    "question": "Los Decretos-Leyes:",
+    "options": {
+      "a": "Son las normas dictadas por el Gobierno en ejercicio de una delegación legislativa.",
+      "b": "Deben tener necesariamente un plazo de caducidad.",
+      "c": "Deben ser sometidos a debate y votación de totalidad en el Congreso de los Diputados, pero no en el Senado.",
+      "d": "Pueden afectar al Derecho electoral general."
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 16,
+    "question": "Con la Ley de 1.841, consecuencia del Convenio de Vergara, se privó de su potestad legislativa a:",
+    "options": {
+      "a": "Cataluña.",
+      "b": "Aragón.",
+      "c": "Valencia",
+      "d": "Navarra."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 4,
+    "question": "El derecho de petición:",
+    "options": {
+      "a": "Ha sido provisionalmente objeto de desarrollo legislativo por la ley 21/79, de 3 de Octubre, del Tribunal Constitucional.",
+      "b": "No ha sido objeto de desarrollo legislativo.",
+      "c": "Es un derecho de naturaleza administrativa y no un derecho fundamental.",
+      "d": "Ha sido objeto de desarrollo por el legislador en la Ley Orgánica 4/2001 de 12 de Noviembre."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 5,
+    "question": "El número de Diputados que componen el Congreso de Diputados se determina de forma concreta:",
+    "options": {
+      "a": "En el Reglamento del Congreso de Diputados.",
+      "b": "En el artículo 68 de la Constitución.",
+      "c": "En el Reglamento de las Cortes Generales.",
+      "d": "En la Ley Orgánica del Régimen Electoral General."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 6,
+    "question": "Qué funciones y potestades no atribuye la Constitución al Gobierno:",
+    "options": {
+      "a": "La dirección de la política exterior del Estado.",
+      "b": "El ejercicio de la potestad reglamentaria.",
+      "c": "La elaboración de los presupuestos Generales del Estado.",
+      "d": "La interposición de recursos de inconstitucionalidad."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 11,
+    "question": "En la Constitución de 1978, el concepto de independencia judicial significa que:",
+    "options": {
+      "a": "Los Jueces y Magistrados ejercen la función jurisdiccional sometidos únicamente al imperio de la ley, libres de injerencias procedentes de los poderes públicos, de las partes o de terceros.",
+      "b": "Los Jueces y Magistrados son gobernados por el Consejo General del Poder Judicial, órgano autónomo del poder ejecutivo.",
+      "c": "Los Jueces y Magistrados son imparciales.",
+      "d": "Los Jueces y Magistrados resuelven los procesos jurisdiccionales según su arbitrio."
+    },
+    "correct_answer": "a",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 12,
+    "question": "El Consejo General del Poder Judicial es:",
+    "options": {
+      "a": "El órgano de gobierno de jueces y magistrados, integrantes del Poder Judicial, instituido para garantizar su independencia.",
+      "b": "El órgano de gobierno del Poder Judicial que ejerce la representación de jueces y magistrados.",
+      "c": "El órgano jurisdiccional que ejerce el gobierno interno del Poder Judicial.",
+      "d": "Es el órgano especializado del poder ejecutivo que asume las funciones del Ministerio de Justicia en el ámbito del Poder Judicial."
+    },
+    "correct_answer": "a",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 13,
+    "question": "El Fiscal General del Estado es nombrado:",
+    "options": {
+      "a": "Por el Rey, a propuesta del Gobierno, oído el Consejo Fiscal.",
+      "b": "Por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial.",
+      "c": "Por un periodo de cinco años.",
+      "d": "Por el Rey, a propuesta del Congreso de los Diputados."
+    },
+    "correct_answer": "b",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 15,
+    "question": "La garantía normativa de reserva de Ley de los derechos constitucionales concierne:",
+    "options": {
+      "a": "A los derechos fundamentales y libertades públicas garantizados en los artículos 24 a 29 de la Constitución.",
+      "b": "A los derechos constitucionales reconocidos como principios rectores de la política social y económica.",
+      "c": "A todos los derechos constitucionales sancionados en el Título primero de la Constitución.",
+      "d": "A los derechos fundamentales garantizados en los artículos"
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 16,
+    "question": "Entre las diversas materias sobre las que pueden legislar las Comunidades Autónomas, siempre que supongan una conservación, modificación o desarrollo de sus derechos forales se incluye:",
+    "options": {
+      "a": "Nacionalidad y extranjería.",
+      "b": "Propiedad intelectual.",
+      "c": "Formas de matrimonio.",
+      "d": "Sucesiones."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 66,
+    "question": "En el campo de las relaciones del ilícito penal y el ilícito administrativo, el artículo 25.3 de la Constitución consagra:",
+    "options": {
+      "a": "El principio ne bis in idem.",
+      "b": "Las condiciones de validez de las leyes penales en blanco.",
+      "c": "Que las sanciones administrativas no pueden ser de mayor gravedad que las penas.",
+      "d": "La prohibición de sanciones administrativas privativas de libertad."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 1,
+    "question": "Según el artículo 86.1 de la Constitución, las materias que NO pueden ser objeto de un Decreto-Ley son las siguientes:",
+    "options": {
+      "a": "el ordenamiento de las instituciones básicas del Estado; los derechos, deberes y libertades de los ciudadanos regulados en el Título I; el régimen de las Comunidades Autónomas; y el Derecho electoral general.",
+      "b": "únicamente, el ordenamiento de las instituciones básicas del Estado; los derechos, deberes y libertades de los ciudadanos regulados en el Título I; y el régimen de las Comunidades Autónomas.",
+      "c": "únicamente, los derechos, deberes y libertades de los ciudadanos regulados en el Título I.",
+      "d": "únicamente, el Derecho electoral general."
+    },
+    "correct_answer": "a",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 3,
+    "question": "En relación con los derechos de reunión y de manifestación (art. 21 CE), señale cuál de los siguientes enunciados es el correcto:",
+    "options": {
+      "a": "La declaración de un estado de alarma impide, en todo caso, el ejercicio del derecho de manifestación.",
+      "b": "El derecho de manifestación requiere una autorización previa de la autoridad gubernativa correspondiente.",
+      "c": "El derecho de reunión pacífica y sin armas no está sometido al régimen de autorización previa.",
+      "d": "La reunión de más de veinte personas en un domicilio particular está sometida al régimen de la Ley Orgánica 9/1983, de 15 de julio, reguladora del derecho de reunión."
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 4,
+    "question": "En relación con los derechos reconocidos en las Secciones Primera y Segunda del Capítulo Segundo del Título I de la Constitución, señale cuál de los siguientes enunciados es el correcto:",
+    "options": {
+      "a": "Los derechos fundamentales de la Sección Primera son meros enunciados programáticos que no vinculan a los poderes públicos.",
+      "b": "Los derechos fundamentales de la Sección Primera están amparados por la garantía de la reserva de Ley Orgánica prevista en el artículo 81.1 de la Constitución.",
+      "c": "Todos los derechos de los ciudadanos de la Sección Segunda están protegidos mediante el recurso de amparo ante el Tribunal Constitucional.",
+      "d": "Los derechos de los ciudadanos de la Sección Segunda solo pueden ser desarrollados mediante Ley Orgánica, conforme a lo dispuesto en el artículo 81.1 de la Constitución."
+    },
+    "correct_answer": "b",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 6,
+    "question": "En el recurso de amparo ante el Tribunal Constitucional, pueden ser objeto de impugnación:",
+    "options": {
+      "a": "los actos con valor de ley emanados de las Asambleas de las Comunidades Autónomas.",
+      "b": "los actos jurídicos de los funcionarios públicos que no hayan agotado la vía judicial correspondiente.",
+      "c": "los actos sin valor de ley emanados de los órganos de las Cortes.",
+      "d": "los Reglamentos de las Cámaras Legislativas."
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 7,
+    "question": "Las enmiendas de totalidad en las Cortes Generales:",
+    "options": {
+      "a": "solo se pueden presentar a los proyectos de ley.",
+      "b": "se pueden presentar a cualquier iniciativa legislativa.",
+      "c": "sólo pueden producir el efecto de devolver el proyecto de ley al Gobierno.",
+      "d": "solo se pueden presentar en el Congreso de los Diputados."
+    },
+    "correct_answer": "a",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 8,
+    "question": "Según dispone la LO 5/1985, de 19 de junio, de régimen electoral general:",
+    "options": {
+      "a": "las Mesas Electorales no forman parte de la Administración Electoral.",
+      "b": "la Junta Electoral de Zona no puede ejercer potestad disciplinaria alguna.",
+      "c": "la Junta Electoral Central resuelve con carácter vinculante las consultas elevadas por las Juntas Electorales Provinciales.",
+      "d": "la Junta Electoral Provincial unifica los criterios interpretativos de las Juntas Electorales de Zona, con independencia del criterio de la Junta Electoral Central."
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 4,
+    "question": "El derecho de petición:",
+    "options": {
+      "a": "Ha sido provisionalmente objeto de desarrollo legislativo por la ley 21/79, de 3 de Octubre, del Tribunal Constitucional.",
+      "b": "No ha sido objeto de desarrollo legislativo.",
+      "c": "Es un derecho de naturaleza administrativa y no un derecho fundamental.",
+      "d": "Ha sido objeto de desarrollo por el legislador en la Ley Orgánica 4/2001 de 12 de Noviembre."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 5,
+    "question": "El número de Diputados que componen el Congreso de Diputados se determina de forma concreta:",
+    "options": {
+      "a": "En el Reglamento del Congreso de Diputados.",
+      "b": "En el artículo 68 de la Constitución.",
+      "c": "En el Reglamento de las Cortes Generales.",
+      "d": "En la Ley Orgánica del Régimen Electoral General."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 6,
+    "question": "Qué funciones y potestades no atribuye la Constitución al Gobierno:",
+    "options": {
+      "a": "La dirección de la política exterior del Estado.",
+      "b": "El ejercicio de la potestad reglamentaria.",
+      "c": "La elaboración de los presupuestos Generales del Estado.",
+      "d": "La interposición de recursos de inconstitucionalidad."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 11,
+    "question": "En la Constitución de 1978, el concepto de independencia judicial significa que:",
+    "options": {
+      "a": "Los Jueces y Magistrados ejercen la función jurisdiccional sometidos únicamente al imperio de la ley, libres de injerencias procedentes de los poderes públicos, de las partes o de terceros.",
+      "b": "Los Jueces y Magistrados son gobernados por el Consejo General del Poder Judicial, órgano autónomo del poder ejecutivo.",
+      "c": "Los Jueces y Magistrados son imparciales.",
+      "d": "Los Jueces y Magistrados resuelven los procesos jurisdiccionales según su arbitrio."
+    },
+    "correct_answer": "a",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 12,
+    "question": "El Consejo General del Poder Judicial es:",
+    "options": {
+      "a": "El órgano de gobierno de jueces y magistrados, integrantes del Poder Judicial, instituido para garantizar su independencia.",
+      "b": "El órgano de gobierno del Poder Judicial que ejerce la representación de jueces y magistrados.",
+      "c": "El órgano jurisdiccional que ejerce el gobierno interno del Poder Judicial.",
+      "d": "Es el órgano especializado del poder ejecutivo que asume las funciones del Ministerio de Justicia en el ámbito del Poder Judicial."
+    },
+    "correct_answer": "a",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 13,
+    "question": "El Fiscal General del Estado es nombrado:",
+    "options": {
+      "a": "Por el Rey, a propuesta del Gobierno, oído el Consejo Fiscal.",
+      "b": "Por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial.",
+      "c": "Por un periodo de cinco años.",
+      "d": "Por el Rey, a propuesta del Congreso de los Diputados."
+    },
+    "correct_answer": "b",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 15,
+    "question": "La garantía normativa de reserva de Ley de los derechos constitucionales concierne:",
+    "options": {
+      "a": "A los derechos fundamentales y libertades públicas garantizados en los artículos 24 a 29 de la Constitución.",
+      "b": "A los derechos constitucionales reconocidos como principios rectores de la política social y económica.",
+      "c": "A todos los derechos constitucionales sancionados en el Título primero de la Constitución.",
+      "d": "A los derechos fundamentales garantizados en los artículos"
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 16,
+    "question": "Entre las diversas materias sobre las que pueden legislar las Comunidades Autónomas, siempre que supongan una conservación, modificación o desarrollo de sus derechos forales se incluye:",
+    "options": {
+      "a": "Nacionalidad y extranjería.",
+      "b": "Propiedad intelectual.",
+      "c": "Formas de matrimonio.",
+      "d": "Sucesiones."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 66,
+    "question": "En el campo de las relaciones del ilícito penal y el ilícito administrativo, el artículo 25.3 de la Constitución consagra:",
+    "options": {
+      "a": "El principio ne bis in idem.",
+      "b": "Las condiciones de validez de las leyes penales en blanco.",
+      "c": "Que las sanciones administrativas no pueden ser de mayor gravedad que las penas.",
+      "d": "La prohibición de sanciones administrativas privativas de libertad."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 1,
+    "question": "Indique cuál de los siguientes actos no corresponde formalmente al Rey:",
+    "options": {
+      "a": "Expedir una orden ministerial.",
+      "b": "Convocar referéndum en los casos previstos en la Constitución.",
+      "c": "Ejercer el derecho de gracia.",
+      "d": "Nombrar a un Presidente de Comunidad Autónoma."
+    },
+    "correct_answer": "a",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 2,
+    "question": "El Consejo General del Poder Judicial está integrado por:",
+    "options": {
+      "a": "El Presidente del Tribunal Supremo -que también lo es del Consejo General del Poder Judicial- y 20 miembros, nombrados por tercios cada 2 años durante un período de 6 años.",
+      "b": "El Presidente del Tribunal Supremo -que también lo es del Consejo General del Poder Judicial- y 19 miembros, nombrados por un período de 5 años.",
+      "c": "El Presidente del Tribunal Supremo -que también lo es del Consejo General del Poder Judicial- y 20 miembros, nombrados por un período de 5 años.",
+      "d": "Ninguna de las anteriores afirmaciones es correcta."
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 4,
+    "question": "Para reformar un Estatuto de Autonomía:",
+    "options": {
+      "a": "Es necesaria la aprobación por las Cortes Generales por mayoría cualificada de tres quintos de cada cámara.",
+      "b": "Es necesaria la aprobación por Ley Orgánica, salvo que la reforma no afecte a la distribución de competencias entre el Estado y la Comunidad Autónoma.",
+      "c": "Es necesaria aprobación por Ley Orgánica en todo caso.",
+      "d": "No puede aprobarse con la oposición del Gobierno de la Nación."
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 7,
+    "question": "Cuál de estos derechos puede ser suspendido en el supuesto de que se declare el estado de excepción:",
+    "options": {
+      "a": "La libertad de cátedra.",
+      "b": "El derecho de asociación.",
+      "c": "El derecho a la inviolabilidad del domicilio.",
+      "d": "El derecho de sufragio activo."
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 9,
+    "question": "No están legitimados para interponer recurso de inconstitucionalidad:",
+    "options": {
+      "a": "50 Senadores.",
+      "b": "El Defensor del Pueblo.",
+      "c": "El Ministerio Fiscal.",
+      "d": "Los órganos colegiados ejecutivos de las Comunidades Autónomas."
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 10,
+    "question": "Al reconocer el derecho de reunión y manifestación, la Constitución establece que:",
+    "options": {
+      "a": "Cabe celebrar una reunión con armas, siempre que se obtenga la correspondiente autorización.",
+      "b": "Sólo la autoridad judicial puede prohibir una manifestación.",
+      "c": "Sólo se puede prohibir una manifestación cuando existan razones fundadas de alteración del orden público, con peligro para personas y bienes.",
+      "d": "En ningún caso se puede autorizar una manifestación en defensa de ideas contrarias a la Constitución."
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 1,
+    "question": "La Constitución, al regular la delegación legislativa en favor del Gobierno, establece que:",
+    "options": {
+      "a": "No hace falta establecer un plazo para el ejercicio de la delegación cuando su objeto sea simplemente la refundición de varios textos legales en uno solo.",
+      "b": "Es posible que la ley de delegación permita la subdelegación a autoridades distintas del propio Gobierno, cuando ello sea necesario por estrictas razones técnicas.",
+      "c": "Las leyes de bases no podrán en ningún caso facultar para dictar normas con carácter retroactivo.",
+      "d": "Cuando una proposición de ley fuera contraria a una delegación en vigor, el Gobierno no puede oponerse a ella, pues, en caso de aprobarse esa proposición, se entiende implícitamente derogada la ley de delegación."
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 2,
+    "question": "En el procedimiento legislativo, el Senado:",
+    "options": {
+      "a": "Sólo puede introducir enmiendas a los textos legislativos aprobados por el Congreso de los Diputados, pero no vetos.",
+      "b": "Puede introducir, tanto enmiendas como vetos, pero siempre que lo haga por mayoría absoluta en ambos casos.",
+      "c": "Puede introducir enmiendas por mayoría simple, y vetos por mayoría absoluta.",
+      "d": "No puede introducir ni enmiendas ni vetos cuando se trate de leyes orgánicas."
+    },
+    "correct_answer": "c",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 5,
+    "question": "Según la jurisprudencia del Tribunal Constitucional, si el juez ordinario considera que una ley autonómica contradice lo dispuesto en la legislación básica estatal previamente aprobada:",
+    "options": {
+      "a": "Debe inaplicar directamente la ley autonómica, sin necesidad de plantear cuestión de inconstitucionalidad, si considera que la legislación básica estatal es válida.",
+      "b": "Debe plantear cuestión de inconstitucionalidad contra la ley autonómica, si considera que la legislación básica estatal es válida.",
+      "c": "Debe siempre inaplicar la ley autonómica, por el principio de prevalencia del Derecho estatal.",
+      "d": "Sólo debe plantear cuestión de inconstitucionalidad si tiene dudas, pero no si tiene certeza fundada acerca."
+    },
+    "correct_answer": "b",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 7,
+    "question": "El artículo 94 de la Constitución exige que la prestación del consentimiento del Estado para obligarse por medio de tratados o convenios se produzca con la previa autorización de las Cortes Generales en una serie de casos, entre los cuales no menciona:",
+    "options": {
+      "a": "Los tratados de carácter político.",
+      "b": "Los tratados que impliquen obligaciones financieras para la Hacienda Pública.",
+      "c": "Los tratados que supongan modificación o derogación de alguna ley.",
+      "d": "Los tratados con países iberoamericanos o con aquellos que hayan tenido o tengan una peculiar vinculación con España."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 8,
+    "question": "El presidente del Consejo General del Poder Judicial es nombrado por el Rey, a propuesta:",
+    "options": {
+      "a": "Del Pleno del Consejo General del Poder Judicial, por mayoría de tres quintos.",
+      "b": "Del Congreso de los Diputados por mayoría de dos tercios.",
+      "c": "De las Cortes Generales por mayoría de tres quintos de ambas Cámaras.",
+      "d": "Del Pleno del Consejo General del Poder Judicial, por mayoría absoluta."
+    },
+    "correct_answer": "a",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 9,
+    "question": "Según doctrina del Tribunal Constitucional, cuando un juez ordinario estima en un caso concreto que la ley aplicable, siendo anterior a la Constitución, se opone a lo dispuesto en ésta:",
+    "options": {
+      "a": "Debe en todo caso plantear cuestión de inconstitucionalidad al Tribunal Constitucional.",
+      "b": "Debe en todo caso inaplicar la ley, sin poder plantear cuestión al Tribunal Constitucional.",
+      "c": "Debe aplicar la ley, pues la Constitución carece de efectos retroactivos.",
+      "d": "Puede inaplicar la ley o, en su caso, plantear cuestión al Tribunal Constitucional."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  },
+  {
+    "question_id": 10,
+    "question": "¿Cuál de estros derechos no es susceptible de fundamentar un recurso de amparo ante el Tribunal Constitucional?:",
+    "options": {
+      "a": "Derecho a la educación.",
+      "b": "Derecho de asociación.",
+      "c": "Libertad religiosa.",
+      "d": "Derecho de propiedad."
+    },
+    "correct_answer": "d",
+    "category": "constitucional"
+  }
+]
